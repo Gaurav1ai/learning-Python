@@ -4,7 +4,3 @@ b = 3
 print(a+b)
 c = a+b
 print (c)
-if(c == 5):
-    {
-        print("Hello I am john")
-    }
