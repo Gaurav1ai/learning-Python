@@ -5,6 +5,7 @@ print(a+b)
 c = a+b
 print (c)
 if(c == 5):
-    {
-        print("hii")
-    }
+    print("hii")
+    print("hii")
+     
+    

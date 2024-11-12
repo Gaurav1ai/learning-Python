@@ -1,2 +1,2 @@
 print("hi")
-pritn("hello")
+print("The Project is start from here")
