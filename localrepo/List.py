@@ -68,3 +68,9 @@ List2 =["a","b","c","d","e","c"]
 #     del List2
 #     print(List2)
 
+list1 = []
+list2 = [0]
+
+list3 = list1+list2
+list3.sort()
+print(list3) 
